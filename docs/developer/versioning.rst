@@ -1,5 +1,5 @@
 .. _dev-versioning:
-
+http://schemas.android.com/apk/res/android
 Versioning
 ==========
 
